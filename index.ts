@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer"
 
 console.log("\n\tWellcome to the GAME - Cli number Guessing Game\n ");
